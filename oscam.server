@@ -121,3 +121,6 @@ group                         = 1
 emmcache                      = 1,1,2,0
 disablecrccws                 = 1
 audisabled                    = 1
+
+
+oscam.server
